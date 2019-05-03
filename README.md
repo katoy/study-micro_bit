@@ -1,6 +1,9 @@
 # study-micro_bit
 
 
+See
+- https://qiita.com/asondemita/items/0da65f1dc1ab24918af4
+ ブラウザだけで micro:bit javascriptブロックエディター用パッケージ（拡張）が作れるGitHub package authoring
 
 ## TODO
 
@@ -15,7 +18,7 @@ Read more at https://makecode.microbit.org/packages/build-your-own
 
 ## License
 
-
+MIT
 
 ## Supported targets
 
